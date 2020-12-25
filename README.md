@@ -11,7 +11,7 @@ https://sabkad.github.io/copy-w3.css-FashionBlog-Template/
 
 Results: 
 1. This website has several entries with each having a comment section which shows up and hides when clicking the "Replies" button. 
-   For me it was a challange to find a way to show/hide a comment section of the one chosen entry. It was weird to add event listeners for each object, of course. 
+   For me it was a challange to find a way to show/hide a comment section of the one chosen entry. It was weird to add event listener for each object, of course. 
    So eventually I ended up with one trivial solution in which I'm not sure. But it worked. So lets leave it that way for now. 
 2. Clicking the Like button on the original demo changes its content from "Like" to "Liked", however, it is impossible to cancel your action.
    I made up some dubious script, and God knows is it legal to make it that way.
